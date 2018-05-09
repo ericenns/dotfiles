@@ -3,7 +3,7 @@ if $SHELL =~ 'fish'
 	set shell=/bin/sh
 endif
 
-
+set bg=dark
 colorscheme solarized
 
 set nocompatible " be iMproved, required
